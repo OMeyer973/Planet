@@ -1,6 +1,6 @@
-# Three JS + Parcel + Typescript starter
+# Planet
 
-A sweet WebGL boilerplate
+Lost in WebGL space
 
 ---
 
